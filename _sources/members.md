@@ -133,7 +133,7 @@ Phd student - sex effects on language functional connectivity - co-supervision w
 :margin: 3
 :class-body: text-center
 :link:
-:img-top:
+:img-top: images/profile_hugo.jpg
 Bachelor's student in psychology - measuring curiosity in videogames - co-supervision with Dr Yann Harel
 :::
 
