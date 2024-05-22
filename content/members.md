@@ -1,4 +1,4 @@
-# Lab members
+# Members
 
 ## Staff
 
@@ -9,15 +9,7 @@
 :class-body: text-center
 :link: https://github.com/pbellec
 :img-top: https://avatars.githubusercontent.com/u/1670887?v=4?s=100
-Lab founder and director
-:::
-
-:::{card} Arnaud Boré
-:margin: 3
-:class-body: text-center
-:link: https://github.com/arnaudbore
-:img-top: https://avatars.githubusercontent.com/u/2171665?v=4?s=100
-Data scientist
+Associate professor - scientific director
 :::
 
 :::{card} Julie Boyle
@@ -28,9 +20,6 @@ Data scientist
 Project manager
 :::
 
-::::
-
-::::{card-carousel} 3
 :::{card} Basile Pinsard
 :margin: 3
 :class-body: text-center
@@ -40,4 +29,99 @@ Data engineer
 :::
 ::::
 
+::::{card-carousel} 3
+
+:::{card} Marie St-Laurent
+:margin: 3
+:class-body: text-center
+:link: https://github.com/MarieStLaurent
+:img-top: https://avatars.githubusercontent.com/u/9339621?v=4
+Data scientist - digital brain phantom trainer
+:::
+::::
+
 ## Post-doctoral fellows
+
+::::{card-carousel} 3
+
+:::{card} Hao-Ting Wang
+:margin: 3
+:class-body: text-center
+:link: https://wanghaoting.com
+:img-top: images/profile_haoting.jpg
+Post-doctoral fellow - foundation models for fMRI
+:::
+
+:::{card} Isil Bilgin
+:margin: 3
+:class-body: text-center
+:link: https://github.com/complexbrains
+:img-top: images/profile_isil.jpg
+Post-doctoral fellow - brain-aligned large language models - co-supervision with Dr Leila Wehbe
+:::
+
+:::{card} Yann Harel
+:margin: 3
+:class-body: text-center
+:link: https://github.com/hyruuk
+:img-top: images/profile_yann.jpg
+Post-doctoral fellow - brain/behaviour correlates of flow in videogames - co-supervision with Dr Karim Jerbi
+:::
+::::
+
+## PhD students
+::::{card-carousel} 3
+
+:::{card} Maëlle Fréteault
+:margin: 3
+:class-body: text-center
+:link: https://github.com/maelleF
+:img-top: https://avatars.githubusercontent.com/u/29599311?v=4
+Phd student - personalized auditory brain encoding models - co-supervision with Dr Nicolas Farrugia
+:::
+
+:::{card} Maximilien LeClei
+:margin: 3
+:class-body: text-center
+:link: https://github.com/MaximilienLC
+:img-top: images/profile_maximilien.jpg
+PhD student - neuroevolution for human alignment in videogames
+:::
+
+:::{card} Marie-Ève Picard
+:margin: 3
+:class-body: text-center
+:link: https://github.com/me-pic
+:img-top: https://avatars.githubusercontent.com/u/77584086?v=4
+PhD student - physiological correlates of brain/behaviour in videogames - co-supervision with Dr Pierre Rainville
+:::
+::::
+
+
+::::{card-carousel} 3
+
+:::{card} Pravish Sainath
+:margin: 3
+:class-body: text-center
+:link: https://pravishsainath.wixsite.com/mysite
+:img-top: https://avatars.githubusercontent.com/u/13696562?v=4
+Phd student - brain alignment in memory models - co-supervision with Dr Guillaume Lajoie
+:::
+
+:::{card} FranÇois Paugam
+:margin: 3
+:class-body: text-center
+:link: https://github.com/FrancoisPgm
+:img-top: images/profile_francois_p.jpg
+Phd student - brain/behaviour imitation in videogames - co-supervision with Dr Guillaume Lajoie
+:::
+
+:::{card} Xanthy Lajoie
+:margin: 3
+:class-body: text-center
+:link: https://github.com/Xanthylajoie
+:img-top: images/profile_xanthy.jpg
+Phd student - sex effects on language functional connectivity - co-supervision with Dr Simona Brambati
+:::
+
+::::

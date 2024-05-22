@@ -4,4 +4,6 @@
 format: jb-book
 root: intro
 chapters:
+- file: manifesto
+- file: coc
 - file: members
