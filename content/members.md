@@ -123,5 +123,26 @@ Phd student - brain/behaviour imitation in videogames - co-supervision with Dr G
 :img-top: images/profile_xanthy.jpg
 Phd student - sex effects on language functional connectivity - co-supervision with Dr Simona Brambati
 :::
+::::
+
+## Interns
+
+::::{card-carousel} 3
+
+:::{card} Hugo Delhaye
+:margin: 3
+:class-body: text-center
+:link:
+:img-top:
+Bachelor's student in psychology - measuring curiosity in videogames - co-supervision with Dr Yann Harel
+:::
+
+:::{card} Mikkel Schöttner
+:margin: 3
+:class-body: text-center
+:link: https://wp.unil.ch/connectomics/mr-mikkel-schottner-ph-d-student/
+:img-top: images/profile_mikkel.jpg
+Phd student - Mitacs internship spring 2024
+:::
 
 ::::
