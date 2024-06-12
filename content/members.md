@@ -2,7 +2,7 @@
 
 ## Staff
 
-::::{card-carousel} 3
+::::{card-carousel} 1 1 2 3
 
 :::{card} Pierre Bellec
 :margin: 3
