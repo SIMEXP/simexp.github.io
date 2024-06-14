@@ -2,37 +2,38 @@
 
 ## Staff
 
-::::{card-carousel} 3
+::::{grid}
 
-:::{card} Pierre Bellec
+:::{grid-item-card} Pierre Bellec
 :margin: 3
+:columns: 12 6 3 3
 :class-body: text-center
 :link: https://github.com/pbellec
 :img-top: https://avatars.githubusercontent.com/u/1670887?v=4?s=100
 Associate professor - scientific director
 :::
 
-:::{card} Julie Boyle
+:::{grid-item-card} Julie Boyle
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://twitter.com/juliebo80922597
 :img-top: images/profile_julie_boyle.jpg
 Project manager
 :::
 
-:::{card} Basile Pinsard
+:::{grid-item-card} Basile Pinsard
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/bpinsard
 :img-top: https://avatars.githubusercontent.com/u/1155388?v=4?s=100
 Data engineer
 :::
-::::
 
-::::{card-carousel} 3
-
-:::{card} Marie St-Laurent
+:::{grid-item-card} Marie St-Laurent
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/MarieStLaurent
 :img-top: https://avatars.githubusercontent.com/u/9339621?v=4
@@ -42,26 +43,29 @@ Data scientist - digital brain phantom trainer
 
 ## Post-doctoral fellows
 
-::::{card-carousel} 3
+::::{grid}
 
-:::{card} Hao-Ting Wang
+:::{grid-item-card} Hao-Ting Wang
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://wanghaoting.com
 :img-top: images/profile_haoting.jpg
 Post-doctoral fellow - foundation models for fMRI
 :::
 
-:::{card} Isil Bilgin
+:::{grid-item-card} Isil Bilgin
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/complexbrains
 :img-top: images/profile_isil.jpg
 Post-doctoral fellow - brain-aligned large language models - co-supervision with Dr Leila Wehbe
 :::
 
-:::{card} Yann Harel
+:::{grid-item-card} Yann Harel
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/hyruuk
 :img-top: images/profile_yann.jpg
@@ -70,54 +74,56 @@ Post-doctoral fellow - brain/behaviour correlates of flow in videogames - co-sup
 ::::
 
 ## PhD students
-::::{card-carousel} 3
+::::{grid}
 
-:::{card} Maëlle Fréteault
+:::{grid-item-card} Maëlle Fréteault
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/maelleF
 :img-top: https://avatars.githubusercontent.com/u/29599311?v=4
 Phd student - personalized auditory brain encoding models - co-supervision with Dr Nicolas Farrugia
 :::
 
-:::{card} Maximilien LeClei
+:::{grid-item-card} Maximilien LeClei
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/MaximilienLC
 :img-top: images/profile_maximilien.jpg
 PhD student - neuroevolution for human alignment in videogames
 :::
 
-:::{card} Marie-Ève Picard
+:::{grid-item-card} Marie-Ève Picard
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/me-pic
 :img-top: https://avatars.githubusercontent.com/u/77584086?v=4
 PhD student - physiological correlates of brain/behaviour in videogames - co-supervision with Dr Pierre Rainville
 :::
-::::
 
-
-::::{card-carousel} 3
-
-:::{card} Pravish Sainath
+:::{grid-item-card} Pravish Sainath
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://pravishsainath.wixsite.com/mysite
 :img-top: https://avatars.githubusercontent.com/u/13696562?v=4
 Phd student - brain alignment in memory models - co-supervision with Dr Guillaume Lajoie
 :::
 
-:::{card} FranÇois Paugam
+:::{grid-item-card} FranÇois Paugam
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/FrancoisPgm
 :img-top: images/profile_francois_p.jpg
 Phd student - brain/behaviour imitation in videogames - co-supervision with Dr Guillaume Lajoie
 :::
 
-:::{card} Xanthy Lajoie
+:::{grid-item-card} Xanthy Lajoie
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/Xanthylajoie
 :img-top: images/profile_xanthy.jpg
@@ -127,18 +133,20 @@ Phd student - sex effects on language functional connectivity - co-supervision w
 
 ## Interns
 
-::::{card-carousel} 3
+::::{grid}
 
-:::{card} Hugo Delhaye
+:::{grid-item-card} Hugo Delhaye
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/HugoDelhaye
 :img-top: images/profile_hugo.jpg
 Bachelor's student in psychology - measuring curiosity in videogames - co-supervision with Dr Yann Harel
 :::
 
-:::{card} Mikkel Schöttner
+:::{grid-item-card} Mikkel Schöttner
 :margin: 3
+:columns: 12 3 3 3
 :class-body: text-center
 :link: https://wp.unil.ch/connectomics/mr-mikkel-schottner-ph-d-student/
 :img-top: images/profile_mikkel.jpg
