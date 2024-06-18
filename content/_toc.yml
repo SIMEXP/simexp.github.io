@@ -7,5 +7,5 @@ chapters:
 - file: manifesto
 - file: coc
 - file: members
-- file: CONTRIBUTING
 - file: publications
+- file: contributing
