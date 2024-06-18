@@ -4,8 +4,8 @@ name: deploy-book
 on:
   push:
     branches:
-    - main 
-    
+    - main
+
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
   deploy-book:
@@ -22,6 +22,11 @@ jobs:
     - name: Install dependencies
       run: |
         pip install -r content/requirements.txt
+
+    # Fetch ORCID records
+    - name: Fetch ORCID records
+      run: |
+        cd content; python orcid_to_bib.py
 
     # Build the page
     - name: Build the book

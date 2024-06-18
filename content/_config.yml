@@ -4,6 +4,11 @@
 title: SIMEXP lab
 author: SIMEXP lab team
 logo: images/simexp.png
+bibtex_bibfiles:
+  - orcid_works_article.bib
+  - orcid_works_inproceedings.bib
+  - orcid_works_unpublished.bib
+  - orcid_works_misc.bib
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
