@@ -71,6 +71,16 @@ Post-doctoral fellow - brain-aligned large language models - co-supervision with
 :img-top: images/profile_yann.jpg
 Post-doctoral fellow - brain/behaviour correlates of flow in videogames - co-supervision with Dr Karim Jerbi
 :::
+
+
+:::{grid-item-card} Elizabeth DuPre
+:margin: 3
+:columns: 12 3 3 3
+:class-body: text-center
+:link: https://github.com/emdupre
+:img-top: https://avatars.githubusercontent.com/u/15017191?v=4
+Post-doctoral fellow - finding shared functional patterns via alignment techniques
+:::
 ::::
 
 ## PhD students
