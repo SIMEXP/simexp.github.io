@@ -86,6 +86,15 @@ Post-doctoral fellow - finding shared functional patterns via alignment techniqu
 ## PhD students
 ::::{grid}
 
+:::{grid-item-card} Sana Ahmhadi
+:margin: 3
+:columns: 12 3 3 3
+:class-body: text-center
+:link: https://www.linkedin.com/in/sana-ahmadi/
+:img-top: images/profile_sana.jpg
+Phd student - scaling up brain encoding models with high-performance computing - co-supervision with Dr Tristan Glatarad
+:::
+
 :::{grid-item-card} Maëlle Fréteault
 :margin: 3
 :columns: 12 3 3 3
@@ -141,26 +150,19 @@ Phd student - sex effects on language functional connectivity - co-supervision w
 :::
 ::::
 
-## Interns
-
+## Master's student
 ::::{grid}
-
 :::{grid-item-card} Hugo Delhaye
 :margin: 3
 :columns: 12 3 3 3
 :class-body: text-center
 :link: https://github.com/HugoDelhaye
 :img-top: images/profile_hugo.jpg
-Bachelor's student in psychology - measuring curiosity in videogames - co-supervision with Dr Yann Harel
+Master's student in psychology - measuring curiosity in videogames
 :::
-
-:::{grid-item-card} Mikkel Schöttner
-:margin: 3
-:columns: 12 3 3 3
-:class-body: text-center
-:link: https://wp.unil.ch/connectomics/mr-mikkel-schottner-ph-d-student/
-:img-top: images/profile_mikkel.jpg
-Phd student - Mitacs internship spring 2024
-:::
-
 ::::
+
+
+## Alumni
+
+ * Mikkel Schöttner - Mitacs internship spring 2024 (PhD student visitor)
