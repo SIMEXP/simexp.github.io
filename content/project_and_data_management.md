@@ -8,8 +8,9 @@ To improve projects workflow, we divide these in differents units of work of dif
 These as standardized (BIDS*(-ish)*) from data collection instruments:
 eg. `mario` (as a short for `mario.bids`), or `mario.crowdsourced_curiosity`
 Those are produced by data manager for most instruments, but can be contributed to by other members:
-- a student doing a collection of data on a crowdsourcing platform: create a new dataset repo
-- adding physio data to a BIDS dataset: branch+PR to existing repo
+- a student doing a collection of data on a crowdsourcing platform: create a new dataset repo from template.
+- adding physio data to a BIDS dataset: branch+PR to existing repo.
+- enriching BIDS events with variable extracted from bk2 retro gameplay files.
 
 #### template(s)
 For BIDS we have [template](https://github.com/courtois-neuromod/bids_template)
@@ -42,6 +43,7 @@ Project should start by forking a project template (to be designed+ implemented)
 
 ```
 +-- .github/worflows/<selected_code_quality_tools|auto-docker-build_and_push_to_gh_reg|deploy_tests...>
++-- .github/ISSUE_TEMPLATE/ # could contains issue template for steps in the projects if we use GH project mngt.
 +-- Dockerfile # optional: builds environment to run the code+notebooks, can use other files (eg. requirements.txt for pip...)
 +-- README.md
 +-- docs/ # if there is a need for more docs than the README, maybe not necessary
@@ -79,6 +81,8 @@ To follow scientific method:
 Master level: if you want to work on multiple hypotheses at the same time, create more branches+PRs.
 
 If analysis differs too much (done some RSA, now want to do encoding), create a new analysis repo.
+
+This repo could use the GH project management tool, creating issues for action items (and sub-issues if necessary), the issues could span other repos (eg. derivatives to be created, raw data to be enriched).
 
 ### Papers
 Likely a myst-article.
