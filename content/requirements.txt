@@ -4,4 +4,4 @@ numpy
 sphinx_design
 requests
 tqdm
-docutils==0.17.1
+docutils
