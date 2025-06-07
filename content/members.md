@@ -4,13 +4,13 @@
 
 ::::{grid}
 
-:::{grid-item-card} Pierre Bellec
+:::{grid-item-card} Lune Bellec
 :margin: 3
 :columns: 12 6 3 3
 :class-body: text-center
-:link: https://github.com/pbellec
+:link: https://github.com/lune.bellec
 :img-top: https://avatars.githubusercontent.com/u/1670887?v=4?s=100
-Associate professor - scientific director
+Professor and laboratory director
 :::
 
 :::{grid-item-card} Julie Boyle
@@ -131,15 +131,6 @@ PhD student - physiological correlates of brain/behaviour in videogames - co-sup
 Phd student - brain alignment in memory models - co-supervision with Dr Guillaume Lajoie
 :::
 
-:::{grid-item-card} FranÇois Paugam
-:margin: 3
-:columns: 12 3 3 3
-:class-body: text-center
-:link: https://github.com/FrancoisPgm
-:img-top: images/profile_francois_p.jpg
-Phd student - brain/behaviour imitation in videogames - co-supervision with Dr Guillaume Lajoie
-:::
-
 :::{grid-item-card} Xanthy Lajoie
 :margin: 3
 :columns: 12 3 3 3
@@ -164,5 +155,5 @@ Master's student in psychology - measuring curiosity in videogames
 
 
 ## Alumni
-
- * Mikkel Schöttner - Mitacs internship spring 2024 (PhD student visitor)
+ * **FranÇois Paugam**, Phd student - brain/behaviour imitation in videogames - co-supervision with Dr Guillaume Lajoie
+ * **Mikkel Schöttner**, PhD student visitor Mitacs internship spring 2024 - graph neural network for brain/phenotype association in HCP
