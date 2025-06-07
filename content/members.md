@@ -8,7 +8,7 @@
 :margin: 3
 :columns: 12 6 3 3
 :class-body: text-center
-:link: https://github.com/lune.bellec
+:link: https://github.com/lunebellec
 :img-top: https://avatars.githubusercontent.com/u/1670887?v=4?s=100
 Professor and laboratory director
 :::
