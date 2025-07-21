@@ -4,21 +4,14 @@
 
 ::::{grid}
 
-:::{grid-item-card} Lune Bellec
-:margin: 3
-:columns: 12 6 3 3
-:class-body: text-center
-:link: https://github.com/lunebellec
-:img-top: https://avatars.githubusercontent.com/u/1670887?v=4?s=100
+:::{grid-item-card} Lune Bellec [![github](../images/logo_github.png)](https://github.com/lunebellec)
+![Lune Bellec](https://avatars.githubusercontent.com/u/1670887?v=4?s=100)
 Professor and laboratory director
 :::
 
 :::{grid-item-card} Julie Boyle
-:margin: 3
-:columns: 12 3 3 3
-:class-body: text-center
-:link: https://twitter.com/juliebo80922597
-:img-top: images/profile_julie_boyle.jpg
+:link: https://www.linkedin.com/in/julie-boyle-064b17297/
+![Julie A Boyle](../images/profile_julie_boyle.png)
 Project manager
 :::
 
