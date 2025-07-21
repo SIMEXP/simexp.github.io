@@ -14,7 +14,6 @@ project:
     - file: content/manifesto.md
     - file: content/coc.md
     - file: content/members.md
-    - file: content/publications.md
     - file: content/contributing.md  
     - title: Alliance Canada
       children:
@@ -22,5 +21,5 @@ project:
 site:
   template: book-theme
   options:
-    favicon: content/images/favicon.png
-    logo: content/images/simexp.png
+    favicon: images/favicon.png
+    logo: images/simexp.png

@@ -23,19 +23,14 @@ jobs:
       run: |
         pip install -r content/requirements.txt
 
-    # Fetch ORCID records
-    - name: Fetch ORCID records
-      run: |
-        cd content; python orcid_to_bib.py
-
     # Build the page
     - name: Build the book
       run: |
-        jupyter-book build content/
+        myst build --html
 
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v4
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./content/_build/html
+        publish_dir: _build/html
