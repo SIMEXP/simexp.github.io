@@ -6,30 +6,21 @@ The laboratory for brain simulation and exploration (SIMEXP) is located in Montr
 
 ::::{grid}
 
-:::{grid-item-card} CRIUGM
-:margin: 3
-:columns: 12 3 3 3
-:class-body: text-center
-:link: http://www.criugm.qc.ca/en.html
-:img-top: images/logo_criugm_white.png
+```{card} CRIUGM
+:url: http://www.criugm.qc.ca/en.html
+:header: ![](../images/logo_criugm_white.png)
 Research centre of the Montreal Geriatrics Institute
-:::
+```
 
-:::{grid-item-card} UdeM
-:margin: 3
-:columns: 12 3 3 3
-:class-body: text-center
-:link: https://psy.umontreal.ca/accueil/
-:img-top: images/logo_udem.png
+```{card} UdeM
+:url: https://psy.umontreal.ca/accueil/
+:header: ![](../images/logo_udem.png)
 Psychology department, University of Montreal
-:::
+```
 
-:::{grid-item-card} CNeuroMod
-:margin: 3
-:columns: 12 3 3 3
-:class-body: text-center
-:link: https://cneuromod.ca
-:img-top: images/logo_neuromod_black.png
+```{card} CNeuroMod
+:url: https://cneuromod.ca
+:header: ![](../images/logo_neuromod_black.png)
 The Courtois project on neuronal modelling
-:::
+```
 ::::
