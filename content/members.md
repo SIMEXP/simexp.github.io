@@ -99,6 +99,6 @@ Master's student in psychology - _measuring curiosity in videogames_ - co-superv
 ::::
 
 ## Alumni
- * [**Sana Ahmhadi**](https://www.linkedin.com/in/sana-ahmadi/), PhD student (2024) - _scaling up brain encoding models with high-performance computing_ - co-supervision with Dr Tristan Glatarad
  * [**François Paugam**](https://www.linkedin.com/in/françois-paugam-b1835910b/), PhD student (2025) - _brain/behaviour imitation in videogames_ - co-supervision with Dr Guillaume Lajoie
+ * [**Sana Ahmhadi**](https://www.linkedin.com/in/sana-ahmadi/), PhD student (2024) - _scaling up brain encoding models with high-performance computing_ - co-supervision with Dr Tristan Glatarad
  * [**Mikkel Schöttner**](https://www.linkedin.com/in/mikkel-schoettner/), PhD student visitor Mitacs internship (2024) - _graph neural network for brain/phenotype association in HCP_.

@@ -31,7 +31,7 @@ You can do it just once on each cluster:
 
 Datasets are stored in `~/project/(rrg|def)-pbellec/datasets`
 
-> __IMPORTANT__ When applying, it is important that you involve the lab's data admins so they can also sign the non-sharing agreement or other necessary documents. If you want to add a new dataset please contact the lab's data admin (Basile).
+> __IMPORTANT__ When applying to gain access to a dataset, it is important that you involve the lab's management so they can sign data sharing agreement, make sure the use of data is covered by an ethics agreement or other necessary steps. If you want to add a new dataset please contact the lab's data admin (Basile).
 
 ## Renewing or terminating your role
 Every year Digital alliance requires you to renew your account. It is important to do so on a timely fashion in order to prevent interruption in access. If you change position within the lab, your current role will be terminated and you will be required to re-apply under a new role. 
