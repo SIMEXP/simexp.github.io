@@ -148,5 +148,5 @@ Master's student in psychology - measuring curiosity in videogames
 
 
 ## Alumni
- * **FranÇois Paugam**, Phd student - brain/behaviour imitation in videogames - co-supervision with Dr Guillaume Lajoie
+ * **François Paugam**, PhD student - brain/behaviour imitation in videogames - co-supervision with Dr Guillaume Lajoie
  * **Mikkel Schöttner**, PhD student visitor Mitacs internship spring 2024 - graph neural network for brain/phenotype association in HCP
