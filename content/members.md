@@ -19,7 +19,7 @@ Project manager
 
 ```{card} Basile Pinsard
 :header: ![Basile Pinsard](https://avatars.githubusercontent.com/u/1155388?v=4?s=100)
-:url: https://www.linkedin.com/in/basile-pinsard-94161b8/ 
+:url: https://www.linkedin.com/in/basile-pinsard-94161b8/
 Data engineer
 ```
 
@@ -89,14 +89,20 @@ Phd student - _brain alignment in memory models_ - co-supervision with Dr Guilla
 
 ::::
 
-## Master's student
+## Master's students
 ::::{grid}
 ```{card} Hugo Delhaye
 :url: https://github.com/HugoDelhaye
 :header: ![](../images/profile_hugo.jpg)
 Master's student in psychology - _measuring curiosity in videogames_ - co-supervision with Dr Audrey Durand
 ```
+```{card} Sara Barbu
+:url: https://github.com/SaraBarbu  
+:header: ![](../images/profile_sara.jpg)
+Volunteer intern (also Master's student in psychology) - _The Image10k dataset of natural images_ - co-supervision with Dr Valentina Borghesani
+```
 ::::
+
 
 ## Alumni
  * [**François Paugam**](https://www.linkedin.com/in/françois-paugam-b1835910b/), PhD student (2025) - _brain/behaviour imitation in videogames_ - co-supervision with Dr Guillaume Lajoie
