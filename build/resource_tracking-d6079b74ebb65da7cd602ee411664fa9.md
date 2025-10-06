@@ -17,14 +17,14 @@ If there is a known problem with the Metrix portal, this should be documentated 
 
 To view all users in a given allocation (e.g., `rrg-pbellec_gpu`) or in multiple allocations, we can run:
 
-```{bash}
+```console
 sshare -l --accounts=rrg-pbellec_gpu -a
 ```
 
 We can also pass multiple allocations in a comma-separated list.
 To view only a subset of users within allocations, simply pass the `-u` flag with the relevant user name(s):
 
-```{bash}
+```console
 sshare -l --accounts=rrg-pbellec_cpu,def-pbellec_cpu -u emdupre
 ```
 
@@ -46,7 +46,7 @@ The Alliance Canada documentation has lots of resources for [monitoring jobs, in
 
 One useful command to get a full accounting of a completed job is with `scontrol`:
 
-```{bash}
+```console
 scontrol show job -dd <JOBID>
 ```
 
@@ -54,7 +54,7 @@ scontrol show job -dd <JOBID>
 
 In order to more efficiently _request_ resources, we can use the `partition-stats` command, called simply using:
 
-  ```{bash}
+  ```console
   partition-stats
   ```
 
@@ -72,7 +72,7 @@ Specifically, the command will return:
 As Alliance Resources [implement backfilling](https://docs.alliancecan.ca/wiki/Job_scheduling_policies#Backfilling), jobs are not strictly started in terms of priority order, but also in terms of what resources are available.
 The start time for a given job can therefore be estimated using:
 
-```{bash}
+```console
 squeue --start -j <JOBID>
 ```
 
