@@ -19,6 +19,7 @@ project:
       children:
         - file: alliance_canada/quick_start.md
         - file: alliance_canada/advanced_usage.md
+        - file: alliance_canada/resource_tracking.md
 site:
   template: book-theme
   options:
