@@ -103,6 +103,14 @@ Volunteer intern (also Master's student in psychology) - _The Image10k dataset o
 ```
 ::::
 
+## Bachelor student
+::::{grid}
+```{card} Cléo Lam
+:url: https://github.com/cleode5a7  
+:header: ![](../images/profile_cleo.jpg)
+Volunteer intern (also Bachelor student in computer science) - _The Cozmo mask fMRI pilot task_ - co-supervision with Dr Yann Harel
+```
+::::
 
 ## Alumni
  * [**François Paugam**](https://www.linkedin.com/in/françois-paugam-b1835910b/), PhD student (2025) - _brain/behaviour imitation in videogames_ - co-supervision with Dr Guillaume Lajoie
