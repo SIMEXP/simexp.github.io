@@ -103,8 +103,14 @@ Volunteer intern (also Master's student in psychology) - _The Image10k dataset o
 ```
 ::::
 
-## Bachelor student
+## Bachelor students
 ::::{grid}
+```{card} Raphaëlle Jourde
+:url: https://github.com/cleode5a7  
+:header: ![](../images/profile_raphaelle.jpg)
+Volunteer intern (also Bachelor student in criminology) - _The Cozmo mask fMRI pilot task_ - co-supervision with Dr Yann Harel
+```
+
 ```{card} Cléo Lam
 :url: https://github.com/cleode5a7  
 :header: ![](../images/profile_cleo.jpg)
