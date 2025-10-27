@@ -14,12 +14,15 @@ project:
     - file: content/manifesto.md
     - file: content/coc.md
     - file: content/members.md
-    - file: content/contributing.md  
+    - file: content/contributing.md
     - title: Alliance Canada
       children:
         - file: alliance_canada/quick_start.md
         - file: alliance_canada/advanced_usage.md
         - file: alliance_canada/resource_tracking.md
+    - title: Misc
+      children:
+        - file: misc/vpn_udem.md
 site:
   template: book-theme
   options:
