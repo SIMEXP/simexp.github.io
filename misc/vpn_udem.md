@@ -42,6 +42,17 @@ VBoxManage storageattach "$VM_NAME" --storagectl "SATA Controller" --port 0 --de
 VBoxManage storageattach "$VM_NAME" --storagectl "SATA Controller" --port 1 --device 0 --type dvddrive --medium "$ISO_PATH"
 VBoxManage startvm "$VM_NAME"
 ```
+:::{tip}
+If you get the following (scary) error when starting the VM:
+```bash
+VirtualBox can't enable the AMD-V extension. Please disable the KVM kernel extension, recompile your kernel and reboot (VERR_SVM_IN_USE)
+```
+Try to run the following instead of recompiling the kernel (!):
+```bash
+sudo modprobe -r kvm_amd
+sudo modprobe -r kvm
+```
+:::
 
 ---
 
@@ -74,6 +85,43 @@ VBoxManage controlvm "$VM_NAME" clipboard bidirectional
 VBoxManage controlvm "$VM_NAME" draganddrop bidirectional
 ```
 
-Or from GUI:
+### 7. **Mouse auto-capture**
 
-* VM Settings → Gen
+When you put your mouse on the virtual machine window it will auto-capture your mouse and you'll start interacting with the desktop inside the VM. There is a special key to toggle mouse autocapture on/off which will be handy to get back to ubuntu, resize the window or access other information. By default this key is the **right control key**, although it can be remapped through the VBOX interface.
+
+## 🌐 Part 3: Install the UdeM VPN
+
+### 8. Download Ivanti Secure Access VPN
+
+In the VM, go to:
+
+https://vpn.umontreal.ca/campus
+
+Log in with your code d'accès and UNIP
+
+Download the Ivanti Secure Access client for Windows
+
+### 8. Install the VPN Client
+
+Run the downloaded installer
+
+Reboot if prompted
+
+### 9. Configure the VPN
+
+Open Ivanti Secure Access
+
+Add a new connection:
+
+Name: UdeM Campus
+
+Server: https://vpn.umontreal.ca/campus
+
+Save the profile
+
+### 10. 🐧❤️ Profit! 
+
+Activate the connection in the Ivanti Secure app, open FireFox and be ready to access all the wonderful UdeM online resources off campus, from the comfort of your Linux machine!
+
+### 11. Keep on your toes!
+It is very possible that Ivanti will push mandatory updates on you, and UdeM will not fail to double authenticate you constantly. Do not feel too comfortable. You can use VBOX to save a new snapshot of your virtual machine to save your progress in the menu Machine -> "take snapshot"
