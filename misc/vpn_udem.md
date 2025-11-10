@@ -45,7 +45,7 @@ VBoxManage startvm "$VM_NAME"
 
 ---
 
-## 🩟 Part 2: Install and Configure Windows
+## 🪟 Part 2: Install and Configure Windows
 
 ### 4. **Install Windows**
 
