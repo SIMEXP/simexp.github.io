@@ -119,9 +119,13 @@ Server: https://vpn.umontreal.ca/campus
 
 Save the profile
 
-### 10. 🐧❤️ Profit! 
+### 10. 🐧❤️ Profit!
 
 Activate the connection in the Ivanti Secure app, open FireFox and be ready to access all the wonderful UdeM online resources off campus, from the comfort of your Linux machine!
+
+:::{tip}
+Here is a [tutorial](https://udemontreal.sharepoint.com/sites/RH/Documents/Guides%20et%20autres%20ressources%20documentaires/Carri%C3%A8re%20professorale/D_AM_Banque_encadrement_Profs_Synchro.pdf) to access the "credits d'encadrement" section on synchro.
+:::  
 
 ### 11. Keep on your toes!
 It is very possible that Ivanti will push mandatory updates on you, and UdeM will not fail to double authenticate you constantly. Do not feel too comfortable. You can use VBOX to save a new snapshot of your virtual machine to save your progress in the menu Machine -> "take snapshot"
