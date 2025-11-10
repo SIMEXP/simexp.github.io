@@ -4,7 +4,7 @@
 
 ### 1. **Download Windows 10 LTSC (64-bit)**
 
-* Visit: [https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
+* Visit: [https://archive.org/details/Windows10EnterpriseLTSC202164Bit](https://archive.org/details/Windows10EnterpriseLTSC202164Bit)
 * Select **LTSC 2021**, 64-bit ISO
 * Download and save the `.iso` to your `~/Downloads` folder
 
