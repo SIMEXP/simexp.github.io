@@ -119,6 +119,10 @@ Server: https://vpn.umontreal.ca/campus
 
 Save the profile
 
+### 9b. Weird optimization because it's unbearably slow
+
+It looks like the VPN software does not work well on Windows 10: it's super slow. But there seems to be a fix. It's described in this [tutorial](https://wiki.umontreal.ca/spaces/SIE/pages/127184779/FAQ+VPN#expand-CommentrglerlesproblmesdelenteurduVPNavecWindows10) 
+
 ### 10. 🐧❤️ Profit!
 
 Activate the connection in the Ivanti Secure app, open FireFox and be ready to access all the wonderful UdeM online resources off campus, from the comfort of your Linux machine!
