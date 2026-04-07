@@ -1,7 +1,5 @@
 # Members
 
-## Staff
-
 ::::{grid}
 
 :::{grid-item}
@@ -44,12 +42,6 @@
 [Marie St-Laurent](https://github.com/MarieStLaurent): Data scientist
 :::
 
-::::
-
-## Post-doctoral fellows
-
-::::{grid}
-
 :::{grid-item}
 ```{image} ../images/profile_haoting.jpg
 :alt: profile
@@ -79,10 +71,7 @@
 ```
 [Elizabeth Dupre](https://github.com/emdupre): Post-doctoral fellow - _finding shared functional patterns via alignment techniques_
 :::
-::::
 
-## PhD students
-::::{grid}
 :::{grid-item}
 ```{image} ../images/profile_maximilien.jpg
 :alt: profile
@@ -113,10 +102,6 @@
 [Pravish Sainath](https://pravishsainath.wixsite.com/mysite): Phd student - _brain alignment in memory models_ - co-supervision with Dr [Guillaume Lajoie](https://guillaumelajoie.com/)
 :::
 
-::::
-
-## Master's students
-::::{grid}
 :::{grid-item}
 ```{image} ../images/profile_hugo.jpg
 :alt: profile
@@ -136,11 +121,6 @@
 ```
 [Sara Barbu](https://github.com/SaraBarbu): Volunteer intern (also Master's student in psychology) - _The Image10k dataset of natural images_ - co-supervision with Dr [Valentina Borghesani](https://valentina.borghesani.org/)
 :::
-
-::::
-
-## Bachelor students
-::::{grid}
 
 :::{grid-item}
 ```{image} ../images/profile_raphaelle.jpg
@@ -167,6 +147,7 @@
 ## Alumni
  * [**Yann Harel**](https://www.linkedin.com/in/yann-harel-877017127/), PhD student (2019-24) `Development and validation of a video game platform for fMRI and MEG`, primary supervisor LB, co-supervisor Karim Jerbi; Post-doctoral fellow (2024-26) `characterizing learning trajectories in videogame environments`, supervisor LB.
  * [**Maelle Freteault**](https://github.com/maelleF), Phd student (graduated 2025)- _personalized auditory brain encoding models_ - co-supervision with Dr Nicolas Farrugia
- * [**François Paugam**](https://www.linkedin.com/in/françois-paugam-b1835910b/), PhD student (graduated 2025) - _brain/behaviour imitation in videogames_ - co-supervision with Dr Guillaume Lajoie
+ * [**François Paugam**](https://www.linkedin.com/in/françois-paugam-b1835910b/), PhD student (graduated 2025) - _brain/behaviour imitation in videogames_ - co-supervision with Dr Guillaume Lajoie.
  * [**Sana Ahmhadi**](https://www.linkedin.com/in/sana-ahmadi/), PhD student (2024) - _scaling up brain encoding models with high-performance computing_ - co-supervision with Dr Tristan Glatarad
  * [**Mikkel Schöttner**](https://www.linkedin.com/in/mikkel-schoettner/), PhD student visitor Mitacs internship (2024) - _graph neural network for brain/phenotype association in HCP_.
+ * [**Natasha Clarke**](https://www.linkedin.com/in/natasha-clarke-48176864/), Post-doctoral fellow (2022-24) `Connectome-wide association of resting-state functional connectivity and clinical diagnoses in heterogeneous neuropsychiatric and neurodegenerative conditions`, primary supervisor LB, funded through [IVADO](https://ivado.ca/en/).
