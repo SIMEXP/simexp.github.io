@@ -71,16 +71,6 @@
 :::
 
 :::{grid-item}
-```{image} ../images/profile_yann.jpg
-:alt: profile
-:class: bg-primary mb-1
-:height: 200px
-:align: center
-```
-[Yann Harel](https://github.com/hyruuk): Post-doctoral fellow - _brain/behaviour correlates of flow in videogames_ - co-supervision with Dr [Karim Jerbi](http://www.karimjerbi.com/)
-:::
-
-:::{grid-item}
 ```{image} https://avatars.githubusercontent.com/u/15017191?v=4
 :alt: profile
 :class: bg-primary mb-1
@@ -175,8 +165,8 @@
 ::::
 
 ## Alumni
+ * [**Yann Harel**](https://www.linkedin.com/in/yann-harel-877017127/), PhD student (2019-24) `Development and validation of a video game platform for fMRI and MEG`, primary supervisor LB, co-supervisor Karim Jerbi; Post-doctoral fellow (2024-26) `characterizing learning trajectories in videogame environments`, supervisor LB.
  * [**Maelle Freteault**](https://github.com/maelleF), Phd student (graduated 2025)- _personalized auditory brain encoding models_ - co-supervision with Dr Nicolas Farrugia
-
  * [**François Paugam**](https://www.linkedin.com/in/françois-paugam-b1835910b/), PhD student (graduated 2025) - _brain/behaviour imitation in videogames_ - co-supervision with Dr Guillaume Lajoie
  * [**Sana Ahmhadi**](https://www.linkedin.com/in/sana-ahmadi/), PhD student (2024) - _scaling up brain encoding models with high-performance computing_ - co-supervision with Dr Tristan Glatarad
  * [**Mikkel Schöttner**](https://www.linkedin.com/in/mikkel-schoettner/), PhD student visitor Mitacs internship (2024) - _graph neural network for brain/phenotype association in HCP_.
