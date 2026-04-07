@@ -1,8 +1,6 @@
-mystmd
 jupyter-book
 matplotlib
 numpy
-sphinx_design
 requests
 tqdm
 docutils

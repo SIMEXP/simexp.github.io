@@ -4,115 +4,169 @@
 
 ::::{grid}
 
-```{card} Lune Bellec
-:header: ![Lune Bellec](https://avatars.githubusercontent.com/u/1670887?v=4?s=100)
-:url: https://github.com/lunebellec
-
-Professor and laboratory director
+:::{grid-item}
+```{image} https://avatars.githubusercontent.com/u/1670887?v=4?s=100
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Lune Bellec](https://github.com/lunebellec): Professor and laboratory director
+:::
 
-```{card} Julie Boyle
-:header: ![Julie A Boyle](../images/profile_julie_boyle.png)
-:url: https://www.linkedin.com/in/julie-boyle-064b17297/
-Project manager
+:::{grid-item}
+```{image} ../images/profile_julie_boyle.png
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Julie A Boyle](https://www.linkedin.com/in/julie-boyle-064b17297/): Project manager
+:::
 
-```{card} Basile Pinsard
-:header: ![Basile Pinsard](https://avatars.githubusercontent.com/u/1155388?v=4?s=100)
-:url: https://www.linkedin.com/in/basile-pinsard-94161b8/
-Data engineer
+:::{grid-item}
+```{image} https://avatars.githubusercontent.com/u/1155388?v=4?s=100
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Basile Pinsard](https://www.linkedin.com/in/basile-pinsard-94161b8/): Data manager
+:::
 
-```{card} Marie St-Laurent
-:header: ![Marie St-Laurent](https://avatars.githubusercontent.com/u/9339621?v=4)
-:url: https://github.com/MarieStLaurent
-Data scientist - _digital brain phantom trainer_
+:::{grid-item}
+```{image} https://avatars.githubusercontent.com/u/9339621?v=4
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Marie St-Laurent](https://github.com/MarieStLaurent): Data scientist
+:::
+
 ::::
 
 ## Post-doctoral fellows
 
 ::::{grid}
 
-```{card} Hao-Ting Wang
-:header: ![Hao-Ting Wang](../images/profile_haoting.jpg)
-:url: https://wanghaoting.com
-Post-doctoral fellow - _foundation models for fMRI_
+:::{grid-item}
+```{image} ../images/profile_haoting.jpg
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Hao-Ting Wang](https://wanghaoting.com): Post-doctoral fellow - _foundation models for fMRI_
+:::
 
-```{card} Isil Bilgin
-:header: ![Isil Bilgin](../images/profile_isil.jpg)
-:url: https://github.com/complexbrains
-Post-doctoral fellow - _brain-aligned large language models_ - co-supervision with Dr Leila Wehbe
+:::{grid-item}
+```{image} ../images/profile_isil.jpg
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Isil Bilgin](https://github.com/complexbrains): Post-doctoral fellow - _brain-aligned large language models_ - co-supervision with Dr [Leila Wehbe](https://scholar.google.com/citations?user=YezyUawAAAAJ&hl=en)
+:::
 
-```{card} Elizabeth DuPre
-:header: ![Elizabeth Dupre](https://avatars.githubusercontent.com/u/15017191?v=4)
-:url: https://github.com/emdupre
-Post-doctoral fellow - _finding shared functional patterns via alignment techniques_
+:::{grid-item}
+```{image} https://avatars.githubusercontent.com/u/15017191?v=4
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
+```
+[Elizabeth Dupre](https://github.com/emdupre): Post-doctoral fellow - _finding shared functional patterns via alignment techniques_
 :::
 ::::
 
 ## PhD students
 ::::{grid}
-
-```{card} Maëlle Freteault
-:header: ![Maelle Freteault](https://avatars.githubusercontent.com/u/29599311?v=4)
-:url: https://github.com/maelleF
-Phd student - _personalized auditory brain encoding models_ - co-supervision with Dr Nicolas Farrugia
+:::{grid-item}
+```{image} ../images/profile_maximilien.jpg
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Maximilien Leclei](https://github.com/MaximilienLC): PhD student - _neuroevolution for human alignment in videogames_
+:::
 
-```{card} Maximilien LeClei
-:url: https://github.com/MaximilienLC
-:header: ![](../images/profile_maximilien.jpg)
-PhD student - _neuroevolution for human alignment in videogames_
+:::{grid-item}
+```{image} https://avatars.githubusercontent.com/u/77584086?v=4
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Marie-Ève Picard](https://github.com/me-pic): - _physiological correlates of brain/behaviour in videogames_ - co-supervision with Dr [Pierre Rainville](https://criugm.qc.ca/en/chercheurs/rainville-pierre-en/)
+:::
 
-```{card} Marie-Ève Picard
-:url: https://github.com/me-pic
-:header: ![](https://avatars.githubusercontent.com/u/77584086?v=4)
-PhD student - _physiological correlates of brain/behaviour in videogames_ - co-supervision with Dr Pierre Rainville
+:::{grid-item}
+```{image} https://avatars.githubusercontent.com/u/13696562?v=4
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
-
-```{card} Pravish Sainath
-:url: https://pravishsainath.wixsite.com/mysite
-:header: ![](https://avatars.githubusercontent.com/u/13696562?v=4)
-Phd student - _brain alignment in memory models_ - co-supervision with Dr Guillaume Lajoie
-```
+[Pravish Sainath](https://pravishsainath.wixsite.com/mysite): Phd student - _brain alignment in memory models_ - co-supervision with Dr [Guillaume Lajoie](https://guillaumelajoie.com/)
+:::
 
 ::::
 
 ## Master's students
 ::::{grid}
-```{card} Hugo Delhaye
-:url: https://github.com/HugoDelhaye
-:header: ![](../images/profile_hugo.jpg)
-Master's student in psychology - _measuring curiosity in videogames_ - co-supervision with Dr Audrey Durand
+:::{grid-item}
+```{image} ../images/profile_hugo.jpg
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
-```{card} Sara Barbu
-:url: https://github.com/SaraBarbu  
-:header: ![](../images/profile_sara.jpg)
-Volunteer intern (also Master's student in psychology) - _The Image10k dataset of natural images_ - co-supervision with Dr Valentina Borghesani
+[Hugo Delhaye](https://github.com/HugoDelhaye): Master's student in psychology - _measuring curiosity in videogames_ - co-supervision with Dr [Audrey Durand](https://audur2.ift.ulaval.ca/)
+:::
+
+:::{grid-item}
+```{image} ../images/profile_sara.jpg
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Sara Barbu](https://github.com/SaraBarbu): Volunteer intern (also Master's student in psychology) - _The Image10k dataset of natural images_ - co-supervision with Dr [Valentina Borghesani](https://valentina.borghesani.org/)
+:::
+
 ::::
 
 ## Bachelor students
 ::::{grid}
-```{card} Raphaëlle Jourde
-:url: https://github.com/cleode5a7  
-:header: ![](../images/profile_raphaelle.jpg)
-Volunteer intern (also Bachelor student in criminology) - _The Cozmo mask fMRI pilot task_ - co-supervision with Dr Yann Harel
-```
 
-```{card} Cléo Lam
-:url: https://github.com/cleode5a7  
-:header: ![](../images/profile_cleo.jpg)
-Volunteer intern (also Bachelor student in computer science) - _The Cozmo mask fMRI pilot task_ - co-supervision with Dr Yann Harel
+:::{grid-item}
+```{image} ../images/profile_raphaelle.jpg
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
 ```
+[Raphaëlle Jourde](https://www.linkedin.com/in/raphaelle-jourde-76623b317/?originalSubdomain=ca): Volunteer intern (also Bachelor student in criminology) - _The Cozmo mask fMRI pilot task_ - co-supervision with Dr Yann Harel
+:::
+
+:::{grid-item}
+```{image} ../images/profile_cleo.jpg
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
+```
+[Cléo Lam](https://github.com/cleode5a7): Volunteer intern (also Bachelor student in computer science) - _The Cozmo mask fMRI pilot task_ - co-supervision with Dr Yann Harel
+:::
+
 ::::
 
 ## Alumni
  * [**Yann Harel**](https://www.linkedin.com/in/yann-harel-877017127/), PhD student (2019-24) `Development and validation of a video game platform for fMRI and MEG`, primary supervisor LB, co-supervisor Karim Jerbi; Post-doctoral fellow (2024-26) `characterizing learning trajectories in videogame environments`, supervisor LB.
- * [**François Paugam**](https://www.linkedin.com/in/françois-paugam-b1835910b/), PhD student (2025) - _brain/behaviour imitation in videogames_ - co-supervision with Dr Guillaume Lajoie
+ * [**Maelle Freteault**](https://github.com/maelleF), Phd student (graduated 2025)- _personalized auditory brain encoding models_ - co-supervision with Dr Nicolas Farrugia
+ * [**François Paugam**](https://www.linkedin.com/in/françois-paugam-b1835910b/), PhD student (graduated 2025) - _brain/behaviour imitation in videogames_ - co-supervision with Dr Guillaume Lajoie
  * [**Sana Ahmhadi**](https://www.linkedin.com/in/sana-ahmadi/), PhD student (2024) - _scaling up brain encoding models with high-performance computing_ - co-supervision with Dr Tristan Glatarad
  * [**Mikkel Schöttner**](https://www.linkedin.com/in/mikkel-schoettner/), PhD student visitor Mitacs internship (2024) - _graph neural network for brain/phenotype association in HCP_.
