@@ -139,7 +139,7 @@
 :height: 200px
 :align: center
 ```
-[Cléo Lam](https://github.com/cleode5a7): Volunteer intern (also Bachelor student in computer science) - _The Cozmo mask fMRI pilot task_ - co-supervision with Dr Yann Harel
+[Cléo Lam](https://github.com/cleode5a7): Master's student in psychology-  _Investigating the structure and emergence of strategies in video games_
 :::
 
 ::::
