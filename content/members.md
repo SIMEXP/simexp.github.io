@@ -119,7 +119,7 @@
 :height: 200px
 :align: center
 ```
-[Cléo Lam](https://github.com/cleode5a7): Master's student in psychology-  _Investigating the structure and emergence of strategies in video games_
+[Cléo Lam](https://github.com/cleode5a7): Master's student in psychology -  _Investigating the structure and emergence of strategies in video games_
 :::
 
 :::{grid-item}
