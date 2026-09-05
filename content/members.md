@@ -113,6 +113,16 @@
 :::
 
 :::{grid-item}
+```{image} ../images/profile_cleo.jpg
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
+```
+[Cléo Lam](https://github.com/cleode5a7): Master's student in psychology -  _Investigating the structure and emergence of strategies in video games_
+:::
+
+:::{grid-item}
 ```{image} ../images/profile_sara.jpg
 :alt: profile
 :class: bg-primary mb-1
@@ -130,16 +140,6 @@
 :align: center
 ```
 [Raphaëlle Jourde](https://www.linkedin.com/in/raphaelle-jourde-76623b317/?originalSubdomain=ca): Volunteer intern (also Bachelor student in criminology) - _The Cozmo mask fMRI pilot task_ - co-supervision with Dr Yann Harel
-:::
-
-:::{grid-item}
-```{image} ../images/profile_cleo.jpg
-:alt: profile
-:class: bg-primary mb-1
-:height: 200px
-:align: center
-```
-[Cléo Lam](https://github.com/cleode5a7): Volunteer intern (also Bachelor student in computer science) - _The Cozmo mask fMRI pilot task_ - co-supervision with Dr Yann Harel
 :::
 
 ::::
