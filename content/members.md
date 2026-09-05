@@ -43,16 +43,6 @@
 :::
 
 :::{grid-item}
-```{image} ../images/profile_haoting.jpg
-:alt: profile
-:class: bg-primary mb-1
-:height: 200px
-:align: center
-```
-[Hao-Ting Wang](https://wanghaoting.com): Post-doctoral fellow - _foundation models for fMRI_
-:::
-
-:::{grid-item}
 ```{image} ../images/profile_isil.jpg
 :alt: profile
 :class: bg-primary mb-1
@@ -145,6 +135,7 @@
 ::::
 
 ## Alumni
+ * [**Hao-Ting Wang**](https://wanghaoting.com) ([LinkedIn](https://www.linkedin.com/in/hao-ting-wang-73597145/)), Post-doctoral fellow (2021-26) `Foundational models of fMRI time series generation for downstream automated diagnosis of psyhiatric and neurological conditions`, supervisor LB.
  * [**Yann Harel**](https://www.linkedin.com/in/yann-harel-877017127/), PhD student (2019-24) `Development and validation of a video game platform for fMRI and MEG`, primary supervisor LB, co-supervisor Karim Jerbi; Post-doctoral fellow (2024-26) `characterizing learning trajectories in videogame environments`, supervisor LB.
  * [**Maelle Freteault**](https://github.com/maelleF), Phd student (graduated 2025)- _personalized auditory brain encoding models_ - co-supervision with Dr Nicolas Farrugia
  * [**François Paugam**](https://www.linkedin.com/in/françois-paugam-b1835910b/), PhD student (graduated 2025) - _brain/behaviour imitation in videogames_ - co-supervision with Dr Guillaume Lajoie.
