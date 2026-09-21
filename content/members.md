@@ -143,3 +143,4 @@
  * [**Mikkel Schöttner**](https://www.linkedin.com/in/mikkel-schoettner/), PhD student visitor Mitacs internship (2024) - _graph neural network for brain/phenotype association in HCP_.
  * [**Natasha Clarke**](https://www.linkedin.com/in/natasha-clarke-48176864/), Post-doctoral fellow (2022-24) `Connectome-wide association of resting-state functional connectivity and clinical diagnoses in heterogeneous neuropsychiatric and neurodegenerative conditions`, primary supervisor LB, funded through [IVADO](https://ivado.ca/en/).
  * [**Norman Kong**](https://www.linkedin.com/in/norman-kong-011671174/), Undergraduate student (2019-23) `Annotations manuelles et automatisées des vidéos`, supervisor LB.
+ * **Maryse Lapierre**, Undergraduate student (2021-23) `Annotations de scène dans une série TV`, supervisors LB and MSL.
