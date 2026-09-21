@@ -144,3 +144,4 @@
  * [**Natasha Clarke**](https://www.linkedin.com/in/natasha-clarke-48176864/), Post-doctoral fellow (2022-24) `Connectome-wide association of resting-state functional connectivity and clinical diagnoses in heterogeneous neuropsychiatric and neurodegenerative conditions`, primary supervisor LB, funded through [IVADO](https://ivado.ca/en/).
  * [**Norman Kong**](https://www.linkedin.com/in/norman-kong-011671174/), Undergraduate student (2019-23) `Annotations manuelles et automatisées des vidéos`, supervisor LB.
  * **Maryse Lapierre**, Undergraduate student (2021-23) `Annotations de scène dans une série TV`, supervisors LB and MSL.
+ * **François Lespinasse**, Undergraduate student internship (2018-19), Master's student (2019-23) `Development of a pipeline for automated annotation of emotional states from physiological signals recorded in functional MRI`, co-supervised by LB and Dr. Pierre Rainville.
