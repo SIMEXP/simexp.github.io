@@ -63,6 +63,16 @@
 :::
 
 :::{grid-item}
+```{image} ../images/profile_lea.jpg
+:alt: profile
+:class: bg-primary mb-1
+:height: 200px
+:align: center
+```
+[Lea Waller](https://orcid.org/0000-0002-3239-6957): Post-doctoral fellow - _representational alignment for translational neuroscience_
+:::
+
+:::{grid-item}
 ```{image} ../images/profile_maximilien.jpg
 :alt: profile
 :class: bg-primary mb-1
