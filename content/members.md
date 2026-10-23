@@ -43,16 +43,6 @@
 :::
 
 :::{grid-item}
-```{image} ../images/profile_isil.jpg
-:alt: profile
-:class: bg-primary mb-1
-:height: 200px
-:align: center
-```
-[Isil Bilgin](https://github.com/complexbrains): Post-doctoral fellow - _brain-aligned large language models_ - co-supervision with Dr [Leila Wehbe](https://scholar.google.com/citations?user=YezyUawAAAAJ&hl=en)
-:::
-
-:::{grid-item}
 ```{image} https://avatars.githubusercontent.com/u/15017191?v=4
 :alt: profile
 :class: bg-primary mb-1
@@ -125,6 +115,7 @@
 ::::
 
 ## Alumni
+ * [**Isil Bilgin**](https://github.com/complexbrains), Post-doctoral fellow (2022-26) `Brain-aligned large language models`, co-supervision with Dr [Leila Wehbe](https://scholar.google.com/citations?user=YezyUawAAAAJ&hl=en).
  * [**Hao-Ting Wang**](https://wanghaoting.com) ([LinkedIn](https://www.linkedin.com/in/hao-ting-wang-73597145/)), Post-doctoral fellow (2021-26) `Foundational models of fMRI time series generation for downstream automated diagnosis of psyhiatric and neurological conditions`, supervisor LB.
  * [**Yann Harel**](https://www.linkedin.com/in/yann-harel-877017127/), PhD student (2019-24) `Development and validation of a video game platform for fMRI and MEG`, primary supervisor LB, co-supervisor Karim Jerbi; Post-doctoral fellow (2024-26) `characterizing learning trajectories in videogame environments`, supervisor LB.
  * [**Maelle Freteault**](https://github.com/maelleF), Phd student (graduated 2025)- _personalized auditory brain encoding models_ - co-supervision with Dr Nicolas Farrugia
