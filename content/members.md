@@ -126,3 +126,4 @@
  * [**Norman Kong**](https://www.linkedin.com/in/norman-kong-011671174/), Undergraduate student (2019-23) `Annotations manuelles et automatisées des vidéos`, supervisor LB.
  * **Maryse Lapierre**, Undergraduate student (2021-23) `Annotations de scène dans une série TV`, supervisors LB and MSL.
  * [**François Lespinasse**](https://www.linkedin.com/in/fran%C3%A7ois-lespinasse-a1a196127/), Undergraduate student internship (2018-19), Master's student (2019-23) `Development of a pipeline for automated annotation of emotional states from physiological signals recorded in functional MRI`, co-supervised by LB and Dr. Pierre Rainville.
+ * [**Annabelle Harvey**](https://www.linkedin.com/in/annabelle-harvey-525932201/), Master's student (2020-23) `Multi-task learning for joint diagnosis of CNVs and psychiatric conditions from rs-fMRI`, co-supervised by LB and Dr. Sébastien Jacquemont.
